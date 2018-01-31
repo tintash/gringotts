@@ -15,9 +15,9 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 # Projects 
     
-# Web
+## Web
 
-# Utility
+## Utility
 
 * [DartMode](https://github.com/fntintash/dart-modeh) - Dart Mode is a major mode for editing Dart files in Emacs.
 
