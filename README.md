@@ -6,7 +6,7 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 
 - [Projects](#open-source-projects)
-    - [Web](#web)
+    - [Augmented Reality](#augmented-reality)
     - [Utility](#utility)
 - [Demo Videos](#videos)
 
@@ -15,7 +15,9 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 # Projects 
     
-## Web
+## Augmented Reality
+
+* [ARKitObjectPlacementDemo](https://github.com/nauman-tintash/ARKitObjectPlacementDemo) - This sample demonstrates using SceneKit and ARKit to place 3D models in an augmented reality environment.
 
 ## Utility
 
