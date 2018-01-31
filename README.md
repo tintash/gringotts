@@ -1,4 +1,4 @@
-# Tintash Gringotts Code Bank (Private Repos) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Tintash Gringotts Code Bank (Private Repos) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
 
 
 ![Banner](https://raw.githubusercontent.com/tintash/gringotts/master/banner.png)
@@ -32,3 +32,5 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
 
+# References
+- https://github.com/sindresorhus/awesome
