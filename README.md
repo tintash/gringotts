@@ -19,6 +19,10 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [ARKitObjectPlacementDemo](https://github.com/nauman-tintash/ARKitObjectPlacementDemo) - This sample demonstrates using SceneKit and ARKit to place 3D models in an augmented reality environment.
 
+## Machine Learning
+
+* [Flood-it Gym Solver](https://github.com/nauman-tintash/Flood-it_Gym_Solver) - A gym environment for Flood-it game which can be used for playing around with different areas of ML and CV.
+
 ## Utility
 
 * [DartMode](https://github.com/fntintash/dart-modeh) - Dart Mode is a major mode for editing Dart files in Emacs.
