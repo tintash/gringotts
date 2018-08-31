@@ -36,7 +36,7 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 # Contributing
 
-Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
+Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contributing.md` for guidelines.
 
 # References
 - https://github.com/sindresorhus/awesome
