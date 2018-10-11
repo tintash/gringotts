@@ -23,6 +23,8 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [Flood-it Gym Solver](https://github.com/nauman-tintash/Flood-it_Gym_Solver) - A gym environment for Flood-it game which can be used for playing around with different areas of ML and CV.
 
+* [Deep Reinforcement Learning Demos](https://github.com/Arooj-tintash/Reinforcement_Learning_Demos) - Demos of different solutions for some Atari Games using OpenAI Gym environment using Deep Reinforcement Learning.
+
 ## Utility
 
 * [DartMode](https://github.com/fntintash/dart-modeh) - Dart Mode is a major mode for editing Dart files in Emacs.
