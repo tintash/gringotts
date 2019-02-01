@@ -25,6 +25,10 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [Deep Reinforcement Learning Demos](https://github.com/Arooj-tintash/Reinforcement_Learning_Demos) - Demos of different solutions for some Atari Games using OpenAI Gym environment using Deep Reinforcement Learning.
 
+## Classification
+
+* [TensorFlow Lite Classification App](https://github.com/adiliqbl/TFLiteClassificationApp) - Sample android project to run .tflite models to test classifications and object detections.
+
 ## Utility
 
 * [DartMode](https://github.com/fntintash/dart-modeh) - Dart Mode is a major mode for editing Dart files in Emacs.
