@@ -25,6 +25,8 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [Deep Reinforcement Learning Demos](https://github.com/Arooj-tintash/Reinforcement_Learning_Demos) - Demos of different solutions for some Atari Games using OpenAI Gym environment using Deep Reinforcement Learning.
 
+* [GStore-DataAnalysis](https://github.com/nauman-tintash/GStore-DataAnalysis) - Data analysis for the Google Analytics Customer Revenue Prediction challenge on Kaggle.
+
 ## Unity/Games
 
 * [Tin Cinemachine Demo](https://github.com/nauman-tintash/TinCinemachineDemo) - This project demos the implementation of a basic follow and look at target camera using Unity Cinemachine.
