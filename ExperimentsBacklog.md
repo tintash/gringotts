@@ -2,7 +2,8 @@
 A curated list of projects and experiments in the Tintash R&D team's pipeline. Feel free to pick one and collaborate!
 
 - [Experiments](#experiments)
-    - [Realtime Adaptive Music Through ML](#adaptuive-music)
+    - [AI for Games](#ai-for-games)
+        -- [Realtime Adaptive Music Through ML](#adaptuive-music)
 
 - - -
 
