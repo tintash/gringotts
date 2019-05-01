@@ -29,6 +29,8 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [GStore-DataAnalysis](https://github.com/nauman-tintash/GStore-DataAnalysis) - Data analysis for the Google Analytics Customer Revenue Prediction challenge on Kaggle.
 
+* [TensorFlow Lite Classification App](https://github.com/adiliqbl/TFLiteClassificationApp) - Sample android project to run .tflite models to test classifications and object detections.
+
 ## Unity and Games
 
 * [Tin Cinemachine Demo](https://github.com/nauman-tintash/TinCinemachineDemo) - This project demos the implementation of a basic follow and look at target camera using Unity Cinemachine.
