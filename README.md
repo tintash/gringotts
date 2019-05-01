@@ -7,6 +7,8 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 - [Projects](#open-source-projects)
     - [Augmented Reality](#augmented-reality)
+    - [Machine Learning](#machine-learning)
+    - [Unity and Games](#unity-and-games)
     - [Utility](#utility)
 - [Demo Videos](#videos)
 
@@ -27,7 +29,7 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [GStore-DataAnalysis](https://github.com/nauman-tintash/GStore-DataAnalysis) - Data analysis for the Google Analytics Customer Revenue Prediction challenge on Kaggle.
 
-## Unity/Games
+## Unity and Games
 
 * [Tin Cinemachine Demo](https://github.com/nauman-tintash/TinCinemachineDemo) - This project demos the implementation of a basic follow and look at target camera using Unity Cinemachine.
 
@@ -38,7 +40,7 @@ A curated list of awesome projects and resources. Feel free to contribute!
 * [obj2gltf](https://github.com/nauman-tintash/obj2gltf) - Convert OBJ assets to glTF.
 
 
-# Videos
+# Demo Videos
 
 * [Neon Shooter](https://youtu.be/YgHoW5qLfSA) - A simple PCVR FPS prototype for HTC Vive made in Unity with [VRTK](https://github.com/thestonefox/VRTK)
 
