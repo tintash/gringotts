@@ -33,6 +33,8 @@ A curated list of awesome projects and resources. Feel free to contribute!
 
 * [DartMode](https://github.com/fntintash/dart-modeh) - Dart Mode is a major mode for editing Dart files in Emacs.
 
+* [obj2gltf](https://github.com/nauman-tintash/obj2gltf) - Convert OBJ assets to glTF.
+
 
 # Videos
 
