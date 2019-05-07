@@ -5,6 +5,7 @@ A curated list of projects and experiments in the Tintash R&D team's pipeline. F
     - [Realtime Adaptive Music Through ML](#adaptuive-music)
 - [NLP Research](#nlp-research)
     - [Text Summarization](#text-summarization)
+    - [Story Writing](#story-writing)
 
 - - -
 
@@ -17,3 +18,5 @@ A curated list of projects and experiments in the Tintash R&D team's pipeline. F
 ## NLP Research
 
 * [Text Summarization](https://github.com/tintash/gringotts/tree/master/RnD_Experiments/Text_Summarization) - To research the natural language generation area for text summarization. The goal for this is to figure out what quality of results are possible through text generation for various summarization tasks.
+
+* [Story Writing](https://github.com/tintash/gringotts/tree/master/RnD_Experiments/Story_Writing) - To research the natural language generation area for generating new content in the form of stories. The goal for this is to figure out what quality of results are possible through text generation with various story and narrative generation tasks.
